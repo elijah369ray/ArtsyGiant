@@ -1,0 +1,15 @@
+<main>
+  <section class="products">
+    <div class="product">
+      <a href="#"><img src="product-image.jpg" alt="Product Title"></a>
+      <h2><a href="#">Product Title</a></h2>
+      <p class="price">$29.99</p>
+    </div>
+    <div class="product">
+      <a href="#"><img src="product-image.jpg" alt="Product Title"></a>
+      <h2><a href="#">Product Title</a></h2>
+      <p class="price">$19.99</p>
+    </div>
+    <!-- Repeat product divs as needed -->
+  </section>
+</main>
